@@ -19,6 +19,13 @@ Online verification of government-issued documents.
 - Python-flask
 - Face Recognition
 
+## Images
+<img src="https://github.com/bhavya092/E-KYC/blob/main/screenshots/home.jpeg">
+<img src="https://github.com/bhavya092/E-KYC/blob/main/screenshots/stp1.jpeg">
+<img src="https://github.com/bhavya092/E-KYC/blob/main/screenshots/stp2.jpeg">
+<img src="https://github.com/bhavya092/E-KYC/blob/main/screenshots/stp2b.jpeg">
+<img src="https://github.com/bhavya092/E-KYC/blob/main/screenshots/stp3.jpeg">
+
 ### Created for SPIT Hackthon by
 #### Team TLE <br>
 [Vaishnavi Shah](https://github.com/vaishnavirshah) <br>
